@@ -1,9 +1,10 @@
 # Overview
 
 * Built a long short-term memory model that predicts the next hour's solar power output based on the previous 24 hours of 
-1. Solar power
+1. Solar power (MWh)
 2. The hour of the day
-3. Cloud coverage
+3. Cloud coverage (%)
+4. Nighttime (0 = no, 1 = yes)
 
 * The model achieved a mean squared error of .00403 vs the baseline model which achieved a mean squared error of .01227
 
