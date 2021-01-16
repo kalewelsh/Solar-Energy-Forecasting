@@ -12,6 +12,6 @@
 # Feature Selection and Engineering
 
 
-![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/June.pngs=200)
+<img src="https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/Nov.png" width="400" height="790">
 ![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/Nov.png)
 Not suprisingly, there is virtually no energy output from a solar farm during periods of the nighttime.
