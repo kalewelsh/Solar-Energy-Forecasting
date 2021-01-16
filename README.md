@@ -15,4 +15,4 @@
 <img src="https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/June.png" width="600" height="300"> <img src="https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/Nov.png" width="600" height="300">
 
 
-Not suprisingly, there is virtually no energy output from a solar farm during periods of the nighttime.
+Not suprisingly, there is virtually no energy output from a solar farm during periods of the nighttime. There are clearly different nighttime and daytime hours depending on the season. For this reason, I created a categorical nighttime feature (0 = daytime, 1 = nighttime) determined by the month and and hour of the observation. 
