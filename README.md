@@ -31,3 +31,8 @@ Although the scatter plot is somewhat unclear, when divided into groupd of cloud
 
 ![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/image.png)
 
+# Results
+![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/first%20100%20solar.png)
+
+With the increased incorporation of solar farms into the energy grid there is more incentive than ever to effectively forecast solar energy output. This project shows that solar energy output can be effectively modeled relatively easily with the use of a lstm neural network. 
+
