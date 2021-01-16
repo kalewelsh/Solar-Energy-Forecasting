@@ -13,6 +13,6 @@
 
 # Feature Selection and Engineering
 
-![](/images/Capture.PNG)
+![](C:/Users/Kyle/Desktop/exampleSite/static/images/last_3_days)
 
 Not suprisingly, there is virtually no energy output from a solar farm during periods of the nighttime.
