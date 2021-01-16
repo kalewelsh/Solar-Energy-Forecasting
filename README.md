@@ -23,3 +23,11 @@ Not suprisingly, there is virtually no energy output from a solar farm during pe
 Although the scatter plot is somewhat unclear, when divided into groupd of cloud cover < 50% and cloud cover > 50% there is a noticable difference in solar power output. 
 
 ![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/Solar%20heatmap.png) Other than cloud cover, there are not too many remarkable relationships between weahter variables and power output. After testing the addition of weather features through some trial and error, I was unable to produce better results than with just cloud cover. 
+
+# The Model
+* I opted to use a long short-term memeory neural network (lstm). An lstm model is a type of recurrent neural network that is capable of processing entire sequences of data and does not suffer from the vanishing gradient problem.
+* In order to use an lstm model for time series predictions I had to convert the feature data into a dataframe of tensors of features for the past 24 hours and a corresponding data frame of power output to be predicted. This method is also known as the sliding window method.
+* I tuned the parameters of the model through a grid search method as well as tweaking the values myself. 
+
+![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/image.png)
+
