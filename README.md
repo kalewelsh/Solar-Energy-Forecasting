@@ -21,3 +21,4 @@ Not suprisingly, there is virtually no energy output from a solar farm during pe
 ![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/cloud%20cover%20scatter.png)
 
 Although the scatter plot is somewhat unclear, when divided into groupd of cloud cover < 50% and cloud cover > 50% there is a noticable difference in solar power output. 
+![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/Solar%20heatmap.png)
