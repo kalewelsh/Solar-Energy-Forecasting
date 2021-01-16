@@ -8,11 +8,11 @@
 
 * The model achieved a mean squared error of .00403 vs the baseline model which achieved a mean squared error of .01227
 
-![](/images/Last_3_Days.jpg)
-![](/images/First_3_Days.jpg)
+![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/first_3_days.png)
+![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/last_3_days.png)
 
 # Feature Selection and Engineering
 
-![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/first_3_days.png)
+
 
 Not suprisingly, there is virtually no energy output from a solar farm during periods of the nighttime.
