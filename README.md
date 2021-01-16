@@ -1,13 +1,17 @@
-# Overview
+# Overview and Results
 
 * Built a long short-term memory model that predicts the next hour's solar power output based on the previous 24 hours of 
 1. Solar power (MWh)
 3. Cloud coverage (%)
 
-* The model achieved a mean squared error of .00403 vs the baseline model which achieved a mean squared error of .01227
+* The model achieved a mean squared error of .00403 vs the baseline model (predicting the next hours power ouput as the current hours power output) which achieved a mean squared error of .01227
 
 ![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/first_3_days.png)
 ![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/last_3_days.png)
+
+![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/first%20100%20solar.png)
+
+With the increased incorporation of solar farms into the energy grid there is more incentive than ever to effectively forecast solar energy output. This project shows that solar energy output can be effectively modeled relatively easily with the use of a lstm neural network. Although the model showed significant imporvements ofver the baseline, it is still not perfect. It can be seen that the model is occasionally significantly underpredicting the peak power output for a day.
 
 # Feature Selection and Engineering
 
@@ -31,8 +35,6 @@ Although the scatter plot is somewhat unclear, when divided into groupd of cloud
 
 ![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/image.png)
 
-# Results
-![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/first%20100%20solar.png)
 
-With the increased incorporation of solar farms into the energy grid there is more incentive than ever to effectively forecast solar energy output. This project shows that solar energy output can be effectively modeled relatively easily with the use of a lstm neural network. 
+
 
