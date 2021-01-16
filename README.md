@@ -13,6 +13,6 @@
 
 # Feature Selection and Engineering
 
-![](/Users/Kyle/Desktop/exampleSite/static/images/first_3_days.png)
+![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/first_3_days.png)
 
 Not suprisingly, there is virtually no energy output from a solar farm during periods of the nighttime.
