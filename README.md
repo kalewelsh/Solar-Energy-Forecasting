@@ -35,7 +35,8 @@ Although the scatter plot is somewhat unclear, when divided into groupd of cloud
 * I achieved best performance with a single LSTM layer and a single dense layer. 
 
 ![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/image.png)
-The model achieved near it's optimal validation performance after around 8 epochs.
+
+The model achieved near it's optimal validation performance after around 8 epochs. Thise means that the model learned how to make predictions on unseen data as well as it was going to after about 8 cycles of learning through the enitre training dataset. If I were to continue training the model for longer then it would lead to overfitting and poor performance on the testing dataset. 
 
 
 
