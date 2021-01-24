@@ -35,6 +35,7 @@ Although the scatter plot is somewhat unclear, when divided into groupd of cloud
 * I achieved best performance with a single LSTM layer and a single dense layer. 
 
 ![](https://github.com/kalewelsh/Solar-Energy-Forecasting/blob/main/image.png)
+The model achieved near it's optimal validation performance after around 8 epochs.
 
 
 
